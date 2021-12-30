@@ -40,7 +40,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-At first I got a little problem with the background position but then I do remembered to use the ::before and ::after property to adjust the circle on the background.
+At first I got a little problem with the background position but then I remembered to use the ::before and ::after property to adjust the circle on the background.
 
 ## Author
 
